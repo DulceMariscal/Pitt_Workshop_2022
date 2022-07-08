@@ -1,4 +1,4 @@
-# Pii Workshop July 2022
+# Python Workshop July 2022
 
 Google Colab Notebooks: https://colab.research.google.com/
 
